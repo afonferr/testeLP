@@ -2,6 +2,6 @@
 
 int main(){
 
-printf("Olá mundo");
+printf("Olá, mundo do Git");
 
 }
